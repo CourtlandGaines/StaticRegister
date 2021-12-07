@@ -1,0 +1,42 @@
+/* I want this to be yellow */
+body {
+    background-color: yellow;
+}
+
+/* i want this to be green */
+.css-check {
+    background-color: lightgreen;
+}
+
+/* Rule 1 */
+.Thing-One {
+    color: lightsalmon;
+}
+
+/*Padding*/
+.container {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+h3 {
+    font-family:cursive;
+    font-weight: bold;
+    }
+
+dt {
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#family {
+    font-family: cursive;
+}
+
+#size {
+    font-size: 50px;
+}
+.border-style {
+    border-style: groove;
+    border-width: 20px;
+}
